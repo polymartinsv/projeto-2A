@@ -1,0 +1,52 @@
+<!DOCTYPEhtml>
+<html lang="pt">
+
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="largura=largura do dispositivo, escala inicial=1,0">
+    <title>Equipar Alura Start</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<corpo>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="alurastart logo.png" alt="poly dogs">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">instagram</li>
+            <li class="cabecalho-lista-item">whats</li>
+        </ul>
+    </header>
+     <seção class="escola">
+        <img src="Animal shelter-cuate.png
+    " alt="" srcset="">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre nosso site</h2>
+            <p class="escola-texto-um">trabalhamos com animais de porte pequeno, fazendo cirurgia, soro e consultas de rotina, fazemos atendimento na clínica e em domicílio! </p>
+            <p class="escola-texto-dois">nossos valores podem ser consultados em nossos meios de comunicação que estão logo a cima!</p>
+        </div>
+        <img class="escola-imagem" src="Abrigo de animais-bro.png" alt="Abrigo de animais-bro.png">
+    </seção>
+    <seção class="estudante">
+        <h2 class="estudante-titulo"></h2>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="Marcelo.jpeg" alt="">
+            <h3 class="estudante-nome"></h3>
+            <img class="estudante-icone" src="github.png" alt="">
+            <img class="estudante-icone" src="linkedin.png" alt="">
+            <img class="estudante-icone" src="instagram.png" alt="">
+        </div>
+        <div class="estudante-div">
+            <img class="estudante-imagem" src="" alt="">
+            <h3 class="estudante-nome"></h3>
+            <img class="estudante-icone" src="github.png" alt="">
+            <img class="estudante-icone" src="linkedin.png" alt="">
+            <img class="estudante-icone" src="instagram.png" alt="">
+        </div>
+    </seção>
+</body>
+
+</html>
